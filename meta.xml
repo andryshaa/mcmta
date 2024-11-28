@@ -1,0 +1,14 @@
+<meta>
+	<info description="MC:MTA" version="0.0.1beta"/>
+    <oop>true</oop>
+
+	<file src="px.jpg"/>
+
+	<script src="globals.lua" type="client"/>
+	<script src="perlin.lua" type="client"/>
+
+	<script src="chunk.lua" type="client"/>
+	<script src="render.lua" type="client"/>
+
+	<script src="client.lua" type="client"/>
+</meta>
